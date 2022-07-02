@@ -1,3 +1,5 @@
+# Crear, escribir y leer un archivo .txt
+
 import os
 archivo = open('Listado.txt', 'w')
 archivo.write('Esto es una linea\n')
