@@ -1,3 +1,5 @@
+# Conectar labase de datos y crear una tabla
+
 import sqlite3
 
 conexion = sqlite3.connect('Biblioteca.db')
